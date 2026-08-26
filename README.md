@@ -1,14 +1,14 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Jai-saraswat/Jai-saraswat/main/assets/neon-pulse-banner.svg"
-  alt="Jai Saraswat"
-  width="100%">
+alt="Jai Saraswat"
+width="100%">
 
 <br>
 
 <img src="https://raw.githubusercontent.com/Jai-saraswat/Jai-saraswat/main/assets/typewriter-intro.svg"
-  alt="Jai Saraswat"
-  width="100%">
+alt="Jai Saraswat"
+width="100%">
 
 <br>
 
@@ -34,27 +34,76 @@ Profile
 
 Computer Science & Engineering (Data Science) student focused on Artificial Intelligence, Machine Learning, Computer Vision, Data Science, and Software Development.
 
-Building practical applications, experimenting with intelligent systems, and strengthening problem-solving through DSA and software development.
+I build practical applications, experiment with intelligent systems, and strengthen my problem-solving skills through DSA, machine learning, and hands-on software development.
 
-Technologies
+Tech Stack
+
+Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,fastapi,pytorch,tensorflow,opencv,numpy,pandas,git,github,vscode,pycharm&perline=8&theme=dark"
-  alt="Technologies">
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&perline=8&theme=dark"
+alt="Languages">
 
 </div>
 
-Focus
+Frameworks & Libraries
 
 <div align="center">
 
-Artificial Intelligence  • 
-Machine Learning  • 
-Computer Vision  • 
-Data Science  • 
-Software Development  • 
-DSA
+<img src="https://skillicons.dev/icons?i=react,fastapi,pytorch,tensorflow,opencv,numpy,pandas&perline=8&theme=dark"
+alt="Frameworks and libraries">
+
+</div>
+
+Tools & Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux&perline=8&theme=dark"
+alt="Development tools">
+
+</div>
+
+Areas of Focus
+
+<div align="center">
+
+Artificial Intelligence
+
+Machine Learning
+
+Computer Vision
+
+Intelligent Applications
+
+Model Experimentation
+
+Image Processing
+
+AI Systems
+
+Model Development
+
+Real-time Analysis
+
+Data Science
+
+Software Development
+
+Problem Solving
+
+Data Analysis
+
+Python / C++
+
+Data Structures
+
+NumPy / Pandas
+
+APIs & Backend
+
+Algorithms
 
 </div>
 
