@@ -85,63 +85,6 @@ alt="Development tools">
 
 </div>
 
-### Machine Learning
-
-**Model Experimentation**  
-**Machine Learning**  
-**Data-driven Systems**
-
-</td>
-
-<td width="33%" align="center">
-
-### Computer Vision
-
-**Image Processing**  
-**Real-time Analysis**  
-**Vision Systems**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" align="center">
-
-### Data Science
-
-**Data Analysis**  
-**NumPy / Pandas**  
-**Data-driven Applications**
-
-</td>
-
-<td width="33%" align="center">
-
-### Software Development
-
-**Python / C++**  
-**APIs & Backend**  
-**Practical Applications**
-
-</td>
-
-<td width="33%" align="center">
-
-### Problem Solving
-
-**Data Structures**  
-**Algorithms**  
-**DSA**
-
-</td>
-
-</tr>
-</table>
-
----
-
 # Contributions
 
 <div align="center">
