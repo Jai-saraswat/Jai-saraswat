@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1200 570"
+     width="1200"
+     height="570"
+     role="img"
+     aria-label="Jai Saraswat terminal introduction">
+  <defs>
+    <linearGradient id="ti-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#151922"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+
+    <filter id="ti-shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="8" result="blur"/>
+      <feOffset dy="7" result="offset"/>
+      <feComponentTransfer>
+        <feFuncA type="linear" slope=".28"/>
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="ti-border" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#30363d"/>
+      <stop offset=".5" stop-color="#7c5cff" stop-opacity=".65"/>
+      <stop offset="1" stop-color="#30363d"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Terminal window -->
+  <rect x="20" y="18" width="1160" height="534" rx="14"
+        fill="url(#ti-bg)" stroke="url(#ti-border)" stroke-width="1.5"
+        filter="url(#ti-shadow)"/>
+
+  <!-- macOS chrome -->
+  <rect x="20" y="18" width="1160" height="50" rx="14" fill="#1b2028"/>
+  <rect x="20" y="52" width="1160" height="16" fill="#1b2028"/>
+
+  <circle cx="52" cy="43" r="8" fill="#ff5f56"/>
+  <circle cx="78" cy="43" r="8" fill="#ffbd2e"/>
+  <circle cx="104" cy="43" r="8" fill="#27c93f"/>
+
+  <text x="600" y="48"
+        text-anchor="middle"
+        font-family="'JetBrains Mono',Consolas,monospace"
+        font-size="13"
+        fill="#7a7f99">jai@github — zsh — 124×34</text>
+
+  <!-- Prompt 1 -->
+  <g font-family="'JetBrains Mono',Consolas,monospace">
+    <text x="62" y="108" font-size="15" fill="#a78bfa">jai@github</text>
+    <text x="170" y="108" font-size="15" fill="#7ee787">:~$</text>
+    <text x="210" y="108" font-size="15" fill="#7ee787">whoami --verbose</text>
+
+    <text x="62" y="139" font-size="15" fill="#c9d1d9">Jai Saraswat — B.Tech CSE · Data Science</text>
+    <text x="62" y="165" font-size="13" fill="#7a7f99">AI/ML · Computer Vision · Data Science · Software Development</text>
+
+    <!-- Prompt 2 -->
+    <text x="62" y="207" font-size="15" fill="#a78bfa">jai@github</text>
+    <text x="170" y="207" font-size="15" fill="#7ee787">:~$</text>
+    <text x="210" y="207" font-size="15" fill="#7ee787">cat now.md</text>
+
+    <text x="62" y="238" font-size="14" fill="#fcd34d">## currently</text>
+    <text x="82" y="266" font-size="14" fill="#c9d1d9">• building practical AI / ML projects</text>
+    <text x="82" y="292" font-size="14" fill="#c9d1d9">• exploring computer vision and data-driven systems</text>
+    <text x="82" y="318" font-size="14" fill="#c9d1d9">• strengthening DSA, Python and software engineering</text>
+
+    <!-- Prompt 3 -->
+    <text x="62" y="360" font-size="15" fill="#a78bfa">jai@github</text>
+    <text x="170" y="360" font-size="15" fill="#7ee787">:~$</text>
+    <text x="210" y="360" font-size="15" fill="#7ee787">contact --all</text>
+
+    <text x="62" y="391" font-size="14" fill="#58a6ff">github.com/Jai-saraswat</text>
+    <text x="370" y="391" font-size="14" fill="#7a7f99">·</text>
+    <text x="395" y="391" font-size="14" fill="#58a6ff">linkedin.com/in/jai-saraswat-877809284</text>
+
+    <text x="62" y="417" font-size="14" fill="#58a6ff">leetcode.com/u/codeZENZZ</text>
+    <text x="300" y="417" font-size="14" fill="#7a7f99">·</text>
+    <text x="325" y="417" font-size="14" fill="#58a6ff">instagram.com/jai_saraswatt</text>
+
+    <text x="62" y="443" font-size="14" fill="#58a6ff">saraswatjai1409@gmail.com</text>
+
+    <!-- Real terminal cursor -->
+    <rect x="62" y="466" width="9" height="16" fill="#c9d1d9">
+      <animate attributeName="opacity"
+               values="1;1;0;0"
+               keyTimes="0;0.5;0.5;1"
+               dur="1.1s"
+               repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Status bar -->
+  <line x1="42" y1="505" x2="1158" y2="505" stroke="#30363d"/>
+  <text x="62" y="530"
+        font-family="'JetBrains Mono',Consolas,monospace"
+        font-size="10"
+        fill="#7a7f99">UTF-8 · zsh · AI/ML · CV · DATA SCIENCE · SOFTWARE</text>
+  <text x="1138" y="530"
+        text-anchor="end"
+        font-family="'JetBrains Mono',Consolas,monospace"
+        font-size="10"
+        fill="#39d353">READY_</text>
+</svg>
