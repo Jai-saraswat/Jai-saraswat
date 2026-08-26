@@ -1,3 +1,3 @@
 # Hi, I'm Jai 👋
 
-<img src="assets/hacker.svg" width="600">
+<img src="assets/profile.svg" width="600">
